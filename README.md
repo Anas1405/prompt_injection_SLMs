@@ -7,6 +7,7 @@ This repository contains the complete dataset engineering framework, experimenta
 
 ## Live Environment
 * **Executable Notebook:** https://www.kaggle.com/code/anaswaheed333333/nlp-proj
+* **Research paper is also attached as NLP_Report**
 
 ## Dataset Architecture
 The project evaluates models across a combined benchmark consisting of **1,190 unique test prompts**:
@@ -19,8 +20,6 @@ The project evaluates models across a combined benchmark consisting of **1,190 u
 * `google/flan-t5-base`
 * `google/mt5-small`
 * `distilgpt2`
-
-**Research paper is also attached as NLP_Report**
 
 ## Experimental Results
 The raw and aggregated metrics generated during the inference phase:
