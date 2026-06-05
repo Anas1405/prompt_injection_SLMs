@@ -10,9 +10,9 @@ This repository contains the complete dataset engineering framework, experimenta
 
 ## Dataset Architecture
 The project evaluates models across a combined benchmark consisting of **1,190 unique test prompts**:
-* **`data/Custom_QA_data.csv`**: 70 original, hand-crafted evaluation samples spread across 7 categories (Factual, Logic, Trick Questions, etc.).
-* **`data/Baseline_QA.csv`**: 170 control pairs combining the curated suite with a 100-sample extraction from SQuAD v2.0.
-* **`data/Adversarial_Robustness_Dataset.csv`**: 1,020 adversarial prompts generated via a Cartesian product of the baseline against 6 attack vectors (Prompt Injection, Negation, and Typo Noise).
+* **`Custom_QA_data.csv`**: 70 original, hand-crafted evaluation samples spread across 7 categories (Factual, Logic, Trick Questions, etc.).
+* **`Baseline_QA.csv`**: 170 control pairs combining the curated suite with a 100-sample extraction from SQuAD v2.0.
+* **`Adversarial_Robustness_Dataset.csv`**: 1,020 adversarial prompts generated via a Cartesian product of the baseline against 6 attack vectors (Prompt Injection, Negation, and Typo Noise).
 
 ## Evaluated Models
 * `google/flan-t5-small`
