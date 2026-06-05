@@ -4,7 +4,11 @@
 **Evaluation of Adversarial Robustness and Safety Prompting in Small Language Models (SLMs)**
 
 This repository contains the complete dataset engineering framework, experimental logs, and model evaluation pipeline for analyzing SLM vulnerabilities against prompt injection and lexical mutations.
-
+## Base dataset used:
+* **SQuAD2.0 (The Stanford Question Answering Dataset)**
+* This was used to check prompt injection on long comprehension Question Answers
+* Only 100 questions used because of limited computational power
+* **https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v2.0.json**
 ## Live Environment
 * **Executable Notebook:** https://www.kaggle.com/code/anaswaheed333333/nlp-proj
 * **Research paper is also attached as NLP_Report**
