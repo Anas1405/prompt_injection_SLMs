@@ -1,7 +1,7 @@
-# prompt_injection_SLMs
-# This project contains a research project aimed to check the robustness of SLMs against different type of prompt injections.
+# PROMPT INJECTION IN SLMs
+**This project contains a research project aimed to check the robustness of SLMs against different type of prompt injections.**
 
-# Evaluation of Adversarial Robustness and Safety Prompting in Small Language Models (SLMs)
+**Evaluation of Adversarial Robustness and Safety Prompting in Small Language Models (SLMs)**
 
 This repository contains the complete dataset engineering framework, experimental logs, and model evaluation pipeline for analyzing SLM vulnerabilities against prompt injection and lexical mutations.
 
