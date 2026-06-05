@@ -20,8 +20,10 @@ The project evaluates models across a combined benchmark consisting of **1,190 u
 * `google/mt5-small`
 * `distilgpt2`
 
+**Research paper is also attached as NLP_Report**
+
 ## Experimental Results
-The raw and aggregated metrics generated during the inference phase are preserved under the `/results` directory:
+The raw and aggregated metrics generated during the inference phase:
 * `results.csv`: Complete row-by-row prediction and exact string match alignments.
   # Example of Result.csv
   <img width="784" height="268" alt="image" src="https://github.com/user-attachments/assets/eb29938a-68ee-401e-9911-e7ed8e0427b2" />
